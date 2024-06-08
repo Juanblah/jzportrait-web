@@ -40,13 +40,18 @@ function LandingPage() {
           <Container>
             <Row>
               <Col className="ml-auto mr-auto text-center" md="8">
-                <h2 className="title">Who we are?</h2>
+                <h2 className="title">¿Quien soy?</h2>
                 <h5 className="description">
-                  According to the National Oceanic and Atmospheric
-                  Administration, Ted, Scambos, NSIDClead scentist, puts the
-                  potentially record low maximum sea ice extent tihs year down
-                  to low ice extent in the Pacific and a late drop in ice extent
-                  in the Barents Sea.
+                ¡Hola! Soy Juan Antonio Blázquez, un apasionado de la fotografía con un enfoque especial en la fotografía de retrato. Mi objetivo es capturar la esencia y personalidad de cada persona a través de mi lente, creando imágenes que cuentan historias únicas y auténticas.
+                </h5><br/> 
+                <h5 className="description">
+                Aunque los retratos son mi especialidad, también ofrezco servicios de fotografía y videografía en una amplia gama de ámbitos. Desde eventos y sesiones familiares hasta proyectos comerciales y artísticos, me esfuerzo por aportar una visión creativa y profesional a cada proyecto.
+                  <br/> 
+                  <br/>
+                Cada sesión es una oportunidad para crear algo especial y memorable. Me dedico a trabajar de cerca con mis clientes para entender sus necesidades y superar sus expectativas, asegurando que cada imagen y video refleje su visión y estilo.
+                <br/>
+                <br/>
+                Únete a mí en esta aventura visual y permíteme ayudarte a capturar tus momentos más preciados con pasión y dedicación. ¡Espero trabajar contigo pronto!
                 </h5>
               </Col>
             </Row>

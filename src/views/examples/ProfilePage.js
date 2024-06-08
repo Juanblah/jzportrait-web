@@ -68,10 +68,11 @@ function ProfilePage() {
             </div>
             <h3 className="title">About me</h3>
             <h5 className="description">
-              An artist of considerable range, Ryan — the name taken by
-              Melbourne-raised, Brooklyn-based Nick Murphy — writes, performs
-              and records all of his own music, giving it a warm, intimate feel
-              with a solid groove structure. An artist of considerable range.
+            JZPortrait, un fotógrafo especializado en retratos, apasionado por capturar la esencia de cada persona a través de mi lente. 
+            
+            <br/>Mi objetivo es crear imágenes que reflejen la autenticidad y belleza únicas de cada individuo.
+            <br/><br/>Además de los retratos, también me dedico a otros tipos de fotografía y videografía, incluyendo eventos y proyectos comerciales. 
+            <br/>Cada proyecto es una oportunidad para aportar mi visión creativa y profesional, transformando momentos en recuerdos inolvidables.
             </h5>
             <Row>
               <Col className="ml-auto mr-auto" md="6">

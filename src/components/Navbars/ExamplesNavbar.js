@@ -93,7 +93,7 @@ function ExamplesNavbar() {
               target="_blank"
               id="navbar-brand"
             >
-              Now Ui Kit
+              JZPortrait
             </NavbarBrand>
             <UncontrolledTooltip target="#navbar-brand">
               Designed by Invision. Coded by Creative Tim
